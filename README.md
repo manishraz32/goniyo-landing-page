@@ -30,5 +30,6 @@ npm run dev
 ```
 
 The app should now be running at http://localhost:5173
+This is live link: https://goniyo-landing-page.vercel.app/
 
 
