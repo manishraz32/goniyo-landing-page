@@ -1,5 +1,14 @@
 @import "tailwindcss";
+@plugin "daisyui";
 
 body {
   font-family: "Poppins", sans-serif;
+}
+
+.custom-modal::backdrop {
+  background-color: rgba(0, 0, 0, 0.6); 
+}
+
+.mobile-nav-link {
+  @apply text-[#000] fill-current hover:bg-red-100 text-base font-normal;
 }
