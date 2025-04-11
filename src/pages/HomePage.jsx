@@ -71,7 +71,7 @@ const HomePage = () => {
                   }}
                 />
                 <img
-                  className="w-[325px] h-[390px] md:w-[399px] md:h-[478px] md:hidden"
+                  className="w-[226px] h-[291px] md:w-[399px] md:h-[478px] md:hidden"
                   src="https://i0.wp.com/goniyo.com/wp-content/uploads/2024/10/mock-image-new.webp?fit=1270%2C1524&ssl=1"
                   alt="card-image"
                 />
